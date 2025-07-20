@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 📫 Contact
 - **Email**: bravo10003@gmail.com
 - **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com) <!-- 생략 가능 -->
-- **LinkedIn**: [linkedin.com/in/youhyun-lee](https://linkedin.com/in/you-hyun-lee)
+- **LinkedIn**: [linkedin.com/in/you-hyun-lee](https://linkedin.com/in/you-hyun-lee)
 
 ---
 
