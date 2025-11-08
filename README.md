@@ -45,7 +45,7 @@
 
 ### 📌 Featured Projects
 
-- [DINOA](https://github.com/YouHyun-Lee/dinoa-master) – Private Repo.
+- [DINOA](https://github.com/YouHyun-Lee/dinoa-master$) – Private Repo.
 
 ---
 
