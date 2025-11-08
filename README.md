@@ -45,8 +45,7 @@
 
 ### 📌 Featured Projects
 
-- [Project Name 1](https://github.com/YouHyun-Lee/project-name-1) – Short one-line description
-- [Project Name 2](https://github.com/YouHyun-Lee/project-name-2) – Short one-line description
+- [DINOA](https://github.com/YouHyun-Lee/dinoa-master) – Private Repo.
 
 ---
 
